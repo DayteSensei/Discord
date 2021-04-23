@@ -1,0 +1,14 @@
+{
+  "name": "tdmr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "scripts":{
+    "start": "node index.js"
+  }
+}
